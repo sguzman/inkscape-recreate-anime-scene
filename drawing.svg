@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.50429687"
-     inkscape:cx="889.35709"
-     inkscape:cy="719.8141"
+     inkscape:zoom="2.0171875"
+     inkscape:cx="631.8203"
+     inkscape:cy="549.5275"
      inkscape:window-width="2560"
      inkscape:window-height="1380"
      inkscape:window-x="2560"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g916"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -29352,4 +29352,8 @@ QAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAf/9k=
        x="4.9574003"
        y="7.0642934" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Drawing Layer" />
 </svg>
